@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'vinme';
-  src:  url('fonts/vinme.eot?1e6601');
-  src:  url('fonts/vinme.eot?1e6601#iefix') format('embedded-opentype'),
-    url('fonts/vinme.ttf?1e6601') format('truetype'),
-    url('fonts/vinme.woff?1e6601') format('woff'),
-    url('fonts/vinme.svg?1e6601#vinme') format('svg');
+  src:  url('fonts/vinme.eot?w33u16');
+  src:  url('fonts/vinme.eot?w33u16#iefix') format('embedded-opentype'),
+    url('fonts/vinme.ttf?w33u16') format('truetype'),
+    url('fonts/vinme.woff?w33u16') format('woff'),
+    url('fonts/vinme.svg?w33u16#vinme') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,189 +25,210 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.google-my-business .path1:before {
+.b-google-my-business:before {
   content: "\e900";
+  color: #e1e1e1;
+}
+.b-grindr:before {
+  content: "\e901";
+  color: #e1e1e1;
+}
+.b-hornet:before {
+  content: "\e902";
+  color: #e1e1e1;
+}
+.b-mercado-libre:before {
+  content: "\e903";
+  color: #e1e1e1;
+}
+.b-onlyfans:before {
+  content: "\e904";
+  color: #e1e1e1;
+}
+.b-scruff:before {
+  content: "\e905";
+  color: #e1e1e1;
+}
+.google-my-business .path1:before {
+  content: "\e906";
   color: rgb(126, 172, 247);
 }
 .google-my-business .path2:before {
-  content: "\e901";
+  content: "\e907";
   margin-left: -1em;
   color: rgb(126, 172, 247);
 }
 .google-my-business .path3:before {
-  content: "\e902";
+  content: "\e908";
   margin-left: -1em;
   color: rgb(73, 89, 183);
 }
 .google-my-business .path4:before {
-  content: "\e903";
+  content: "\e909";
   margin-left: -1em;
   color: rgb(73, 89, 183);
 }
 .google-my-business .path5:before {
-  content: "\e904";
+  content: "\e90a";
   margin-left: -1em;
   color: rgb(72, 129, 236);
 }
 .grindr:before {
-  content: "\e905";
+  content: "\e90b";
   color: #fcb83b;
 }
 .hornet .path1:before {
-  content: "\e906";
+  content: "\e90c";
   color: rgb(223, 84, 55);
 }
 .hornet .path2:before {
-  content: "\e907";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path3:before {
-  content: "\e908";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path4:before {
-  content: "\e909";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path5:before {
-  content: "\e90a";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path6:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path7:before {
-  content: "\e90c";
-  margin-left: -1em;
-  color: rgb(255, 255, 254);
-}
-.hornet .path8:before {
   content: "\e90d";
   margin-left: -1em;
   color: rgb(255, 255, 254);
 }
-.mercado-libre .path1:before {
+.hornet .path3:before {
   content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.hornet .path4:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.hornet .path5:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.hornet .path6:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.hornet .path7:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.hornet .path8:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 255, 254);
+}
+.mercado-libre .path1:before {
+  content: "\e914";
   color: rgb(242, 206, 0);
 }
 .mercado-libre .path2:before {
-  content: "\e90f";
+  content: "\e915";
   margin-left: -1em;
   color: rgb(242, 206, 0);
 }
 .mercado-libre .path3:before {
-  content: "\e910";
+  content: "\e916";
   margin-left: -1em;
   color: rgb(242, 206, 0);
 }
 .mercado-libre .path4:before {
-  content: "\e911";
+  content: "\e917";
   margin-left: -1em;
   color: rgb(242, 206, 0);
 }
 .mercado-libre .path5:before {
-  content: "\e912";
+  content: "\e918";
   margin-left: -1em;
   color: rgb(254, 254, 254);
 }
 .mercado-libre .path6:before {
-  content: "\e913";
+  content: "\e919";
   margin-left: -1em;
   color: rgb(254, 254, 254);
 }
 .mercado-libre .path7:before {
-  content: "\e914";
+  content: "\e91a";
   margin-left: -1em;
   color: rgb(49, 54, 115);
 }
 .onlyfans .path1:before {
-  content: "\e915";
+  content: "\e91b";
   color: rgb(0, 0, 0);
 }
 .onlyfans .path2:before {
-  content: "\e916";
+  content: "\e91c";
   margin-left: -1em;
   color: rgb(0, 174, 239);
 }
 .scruff .path1:before {
-  content: "\e917";
+  content: "\e91d";
   color: rgb(109, 109, 109);
 }
 .scruff .path2:before {
-  content: "\e918";
+  content: "\e91e";
   margin-left: -1em;
   color: rgb(109, 109, 109);
 }
 .scruff .path3:before {
-  content: "\e919";
+  content: "\e91f";
   margin-left: -1em;
   color: rgb(146, 146, 146);
 }
 .scruff .path4:before {
-  content: "\e91a";
+  content: "\e920";
   margin-left: -1em;
   color: rgb(146, 146, 146);
 }
 .scruff .path5:before {
-  content: "\e91b";
+  content: "\e921";
   margin-left: -1em;
   color: rgb(146, 146, 146);
 }
 .scruff .path6:before {
-  content: "\e91c";
+  content: "\e922";
   margin-left: -1em;
   color: rgb(146, 146, 146);
 }
 .scruff .path7:before {
-  content: "\e91d";
+  content: "\e923";
   margin-left: -1em;
   color: rgb(212, 212, 212);
 }
 .scruff .path8:before {
-  content: "\e91e";
+  content: "\e924";
   margin-left: -1em;
   color: rgb(212, 212, 212);
 }
 .scruff .path9:before {
-  content: "\e91f";
+  content: "\e925";
   margin-left: -1em;
   color: rgb(212, 212, 212);
 }
 .scruff .path10:before {
-  content: "\e920";
+  content: "\e926";
   margin-left: -1em;
   color: rgb(212, 212, 212);
 }
 .scruff .path11:before {
-  content: "\e921";
+  content: "\e927";
   margin-left: -1em;
   color: rgb(0, 0, 0);
 }
 .scruff .path12:before {
-  content: "\e922";
+  content: "\e928";
   margin-left: -1em;
   color: rgb(76, 76, 76);
 }
 .netflix-gayflix:before {
-  content: "\e923";
+  content: "\e929";
   color: #d9202b;
 }
 .netflix-gayflix1:before {
-  content: "\e924";
+  content: "\e92a";
   color: #d9202b;
 }
 .tumblr:before {
-  content: "\e925";
+  content: "\e92b";
   color: #36465d;
-}
-.logo-xiiber-2021:before {
-  content: "\ea55";
 }
 .youtube .path1:before {
   content: "\ea5c";
@@ -272,7 +293,7 @@ i {
   color: rgb(62, 64, 149);
 }
 .gmail:before {
-  content: "\e926";
+  content: "\e92c";
   color: #d14836;
 }
 .tumbrl:before {
@@ -283,7 +304,7 @@ i {
   color: #aa1018;
 }
 .pinterest:before {
-  content: "\e927";
+  content: "\e92d";
   color: #bd081c;
 }
 .viajes-one:before {
@@ -296,7 +317,7 @@ i {
   content: "\ea71";
 }
 .send:before {
-  content: "\e928";
+  content: "\e92e";
   color: #e6e7e8;
 }
 .codepen:before {
@@ -466,37 +487,37 @@ i {
   content: "\f413";
 }
 .amazon:before {
-  content: "\e929";
+  content: "\e92f";
   color: #f90;
 }
 .codepen1:before {
-  content: "\e92a";
+  content: "\e930";
 }
 .css3:before {
-  content: "\e92b";
+  content: "\e931";
   color: #1572b6;
 }
 .gitpod:before {
-  content: "\e92c";
+  content: "\e932";
   color: #1aa6e4;
 }
 .html5:before {
-  content: "\e92d";
+  content: "\e933";
   color: #e34f26;
 }
 .mastodon:before {
-  content: "\e92e";
+  content: "\e934";
   color: #3088d4;
 }
 .medium:before {
-  content: "\e92f";
+  content: "\e935";
 }
 .meetup:before {
-  content: "\e930";
+  content: "\e936";
   color: #ed1c40;
 }
 .mega:before {
-  content: "\e931";
+  content: "\e937";
   color: #d9272e;
 }
 .logo-geus-bai-bai-cosmeticos:before {
@@ -989,4 +1010,45 @@ i {
   content: "\ea6a";
   margin-left: -3.345703125em;
   color: rgb(96, 96, 98);
+}
+.logo-xiiber-2021c:before {
+  content: "\ea56";
+  color: #e6e7e8;
+}
+.xiiber-circular-blanco-azul .path1:before {
+  content: "\f5c5";
+  color: rgb(254, 254, 254);
+}
+.xiiber-circular-blanco-azul .path2:before {
+  content: "\f5c6";
+  margin-left: -1em;
+  color: rgb(61, 0, 116);
+}
+.xiiber-circular-blanco-azul .path3:before {
+  content: "\f5c7";
+  margin-left: -1em;
+  color: rgb(61, 0, 116);
+}
+.xiiber-logo-circular-rojo-negro .path1:before {
+  content: "\f5d1";
+  color: rgb(0, 53, 108);
+}
+.xiiber-logo-circular-rojo-negro .path2:before {
+  content: "\f5d2";
+  margin-left: -1em;
+  color: rgb(0, 53, 108);
+}
+.xiiber-logo-circular-rojo-negro .path3:before {
+  content: "\f5d3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.xiiber-recomienda-negro-curvas:before {
+  content: "\f5d4";
+}
+.ico:before {
+  content: "\f0b5";
+}
+.xiiber-circular:before {
+  content: "\f5c3";
 }
